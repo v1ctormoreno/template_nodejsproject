@@ -1,1 +1,1 @@
-# template_nodejsproject
+# NodeJS Template Project
